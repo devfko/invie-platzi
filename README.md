@@ -1,2 +1,2 @@
 # invie-platzi
-Apps.co Platzi
+Apps.co - Platzi 
